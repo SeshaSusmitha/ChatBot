@@ -91,7 +91,7 @@ function sendGenericMessage(sender) {
                 "elements": [{
                     "title": "Meditation",
                     "subtitle": "Gives happiness",
-                    "image_url": "http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/chatbot-930x659.jpg",
+                    "image_url": "https://www.google.com/search?q=meditation&rlz=1C5CHFA_enUS689US689&espv=2&tbm=isch&source=lnms&sa=X&ved=0ahUKEwj1jI7nzfzSAhUKwlQKHTm0AfsQ_AUICCgD&biw=1239&bih=703&dpr=2#imgrc=UZGE_AygoLR4eM:/",
                     "buttons": [{
                         "type": "web_url",
                         "url": "https://www.hackerrank.com/dashboard/",
