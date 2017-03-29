@@ -89,8 +89,8 @@ function sendGenericMessage(sender) {
             "payload": {
                 "template_type": "generic",
                 "elements": [{
-                    "title": "Ai Chat Bot Communities",
-                    "subtitle": "Communities to Follow",
+                    "title": "Meditation",
+                    "subtitle": "Gives happiness",
                     "image_url": "http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/chatbot-930x659.jpg",
                     "buttons": [{
                         "type": "web_url",
