@@ -94,8 +94,8 @@ function sendGenericMessage(sender) {
                     "image_url": "http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/chatbot-930x659.jpg",
                     "buttons": [{
                         "type": "web_url",
-                        "url": "https://www.facebook.com/groups/aichatbots/",
-                        "title": "FB Chatbot Group"
+                        "url": "https://www.hackerrank.com/dashboard/",
+                        "title": "Programming Practice"
                     }, {
                         "type": "web_url",
                         "url": "https://www.reddit.com/r/Chat_Bots/",
