@@ -91,7 +91,7 @@ function sendGenericMessage(sender) {
                 "elements": [{
                     "title": "Meditation",
                     "subtitle": "Gives happiness",
-                    "image_url": "http://i.huffpost.com/gen/1956226/images/o-MEDITATION-facebook.jpg/",
+                    "image_url": "http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/chatbot-930x659.jpg",
                     "buttons": [{
                         "type": "web_url",
                         "url": "https://www.hackerrank.com/dashboard/",
