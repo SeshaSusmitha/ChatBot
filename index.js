@@ -91,7 +91,7 @@ function sendGenericMessage(sender) {
                 "elements": [{
                     "title": "Meditation",
                     "subtitle": "Gives happiness",
-                    "image_url": "https://www.google.com/search?q=meditation&rlz=1C5CHFA_enUS689US689&espv=2&tbm=isch&source=lnms&sa=X&ved=0ahUKEwj1jI7nzfzSAhUKwlQKHTm0AfsQ_AUICCgD&biw=1239&bih=703&dpr=2#imgrc=UZGE_AygoLR4eM:/",
+                    "image_url": "http://i.huffpost.com/gen/1956226/images/o-MEDITATION-facebook.jpg/",
                     "buttons": [{
                         "type": "web_url",
                         "url": "https://www.hackerrank.com/dashboard/",
